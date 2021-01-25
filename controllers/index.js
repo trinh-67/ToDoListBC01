@@ -120,6 +120,8 @@ document.getElementById("addItem").onclick = async (event) => {
 
 //===========================nghiep vụ xóa dữ liệu=======================
 //loi giao dien vo control
-//ten thuoc tinh model
+//ten thuoc tinh model 
+
+//viết chức năng tìm kiếm 
 
 

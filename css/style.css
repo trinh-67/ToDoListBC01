@@ -328,3 +328,7 @@ ul.todo#completed li .buttons .complete .far{
 ul.todo#completed span{
   color: #25b99a;
 }
+
+p.demo {
+  text-align: center;
+}
